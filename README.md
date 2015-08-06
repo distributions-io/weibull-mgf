@@ -8,7 +8,7 @@ The [moment-generating function](https://en.wikipedia.org/wiki/Moment-generating
 
 <div class="equation" align="center" data-raw-text="
     M_X(t) := \mathbb{E}\!\left[e^{tX}\right] = \sum_{n=0}^\infty \frac{t^n\lambda^n}{n!}\Gamma\left(1+\frac{n}{k}\right)" data-equation="eq:mgf_function">
-	<img src="" alt="Moment-generating function (MGF) for a Weibull distribution.">
+	<img src="https://cdn.rawgit.com/distributions-io/weibull-mgf/dd6cfba3d4bd31e9217cac91a8ac3f3efb56017a/docs/img/eqn.svg" alt="Moment-generating function (MGF) for a Weibull distribution.">
 	<br>
 </div>
 
